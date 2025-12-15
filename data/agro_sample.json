@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "How much water does sugarcane need?",
+    "input": "",
+    "output": "**SUGARCANE WATER REQUIREMENTS:**\n\n**Total Water Need:** 1800-2500mm per crop cycle\n\n**STAGE-WISE IRRIGATION:**\n\n🌱 **Germination (0-30 days):**\n• Light irrigation every 3-4 days\n• 50-60mm total\n\n🌿 **Tillering (30-120 days):**\n• Every 7-10 days\n• 400-500mm total\n\n📈 **Grand Growth (120-270 days):**\n• Maximum water need\n• Every 7 days\n• 1000-1200mm total\n\n🌾 **Maturity (270-360 days):**\n• Reduce irrigation\n• Every 15-20 days\n• 200-300mm total\n• Stop 15 days before harvest\n\n**IRRIGATION METHODS:**\n• Drip: 40% water saving\n• Furrow: Traditional\n• Sprinkler: For light soils"
+  },
+  {
+    "instruction": "My banana plants leaves are turning yellow from bottom",
+    "input": "",
+    "output": "**DIAGNOSIS:** Likely Nitrogen Deficiency or Panama Disease\n\n**IF NITROGEN DEFICIENCY:**\n• Older leaves yellow first\n• Uniform yellowing\n• Stunted growth\n\n**Treatment:**\n• Urea: 200g/plant immediately\n• Follow with 100g monthly\n• Or DAP: 150g/plant\n\n**IF PANAMA DISEASE (Fusarium Wilt):**\n• Yellowing starts from margins\n• Brown discoloration in pseudostem\n• Progressive wilting\n\n**Management:**\n• No cure - remove affected plants\n• Burn infected material\n• Apply lime to soil\n• Plant resistant varieties (Grand Naine)\n• Crop rotation for 3-4 years\n\n**DIFFERENTIATION TEST:**\n• Cut pseudostem cross-section\n• Brown/black = Disease\n• Clear = Nutrient issue\n\n**PREVENTION:**\n• Good drainage\n• Balanced nutrition\n• Use disease-free suckers"
+  },
+  {
+    "instruction": "My corn has holes in leaves and stem, what pest is this?",
+    "input": "",
+    "output": "**PEST:** Fall Armyworm (Spodoptera frugiperda) or Corn Borer\n\n**DAMAGE IDENTIFICATION:**\n• Pin holes in leaves\n• Windowpane feeding pattern\n• Bore holes in stem\n• Frass (insect droppings) visible\n\n**CONTROL MEASURES:**\n• Spray: Emamectin benzoate 5% SG @ 0.4g/liter\n• Or: Chlorantraniliprole 18.5% SC @ 0.3ml/liter\n• Apply in evening when larvae are active\n\n**BIOLOGICAL CONTROL:**\n• Trichogramma cards: 50,000 eggs/hectare\n• Bacillus thuringiensis @ 2ml/liter\n\n**CULTURAL PRACTICES:**\n• Deep plowing after harvest\n• Intercrop with legumes\n• Bird perches for natural predation"
+  }
+]
