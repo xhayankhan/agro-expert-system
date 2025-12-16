@@ -7,3 +7,5 @@ accelerate
 Pillow
 numpy<2.0.0
 gunicorn
+streamlit
+gradio
